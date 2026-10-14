@@ -1,0 +1,11 @@
+# Core application
+gradio
+pandas
+python-dotenv
+
+# AI agent and language-model integration
+smolagents
+litellm
+
+# Web search tool used by the agent
+ddg
